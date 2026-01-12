@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Wilian
 
-<!--
-**wyuto555/wyuto555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Quem sou eu?
 
-Here are some ideas to get you started:
+Sou desenvolvedor focado em **Unity e C#**, com interesse forte em **sistemas de gameplay**, automação e uso de **IA aplicada a jogos e criação de conteúdo**. Gosto de entender os sistemas a fundo e construir soluções bem estruturadas e escaláveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ No que estou trabalhando atualmente?
+
+* Desenvolvimento de **sistemas de inventário** em Unity
+* Mecânicas de **FPS/TPS**
+* Exploração de **IA e automação** para otimizar fluxos de trabalho
+* Projetos pessoais e estudos avançados em game development
+
+---
+
+## 🧰 Ferramentas e tecnologias
+
+* 🎮 Unity
+* 💻 C#
+* 🧠 IA / Automação
+* 🧩 Game Systems (Inventário, IK, Mecânicas)
+* 🔧 Git & GitHub
+
+---
+
+⭐ Fique à vontade para explorar meus repositórios, abrir issues ou contribuir!
