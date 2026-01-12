@@ -1,8 +1,6 @@
 # 👋 Olá, eu sou o Wilian
 
-## 🚀 Quem sou eu?
-
-Sou desenvolvedor focado em **Unity e C#**, com interesse forte em **sistemas de gameplay**, automação e uso de **IA aplicada a jogos e criação de conteúdo**. Gosto de entender os sistemas a fundo e construir soluções bem estruturadas e escaláveis.
+Desenvolvedor focado em **Unity e C#**, com interesse forte em **sistemas de gameplay**, automação e uso de **IA aplicada a jogos e criação de conteúdo**. Gosto de entender os sistemas a fundo e construir soluções bem estruturadas e escaláveis.
 
 ---
 
